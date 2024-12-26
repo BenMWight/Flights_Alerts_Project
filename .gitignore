@@ -1,2 +1,3 @@
 # Ignore the .env file which contains sensitive data
 .env
+Daily Flight Checker.xml
